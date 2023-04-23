@@ -6,15 +6,17 @@ TagManager:
   tags:
   - Clickable
   - Target
+  - Enemy
+  - Fence
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - CellMask
   - Water
   - UI
-  - 
-  - 
+  - Fence
+  - Enemy
   - 
   - 
   - 
